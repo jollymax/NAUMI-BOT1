@@ -34,7 +34,7 @@
 
 ## `CHANGE DYNO`
 
-Off in web nya
+ON INI WEB NYA!!
 
 ----------
 
