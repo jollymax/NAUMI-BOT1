@@ -5596,6 +5596,49 @@ absen.splice(ini, 1)
 fs.writeFileSync('./src/absen.json', JSON.stringify(absen))
 }, tem)
 break
+break
+case 'mla':
+reply2(`*💎DIAMOND ML💎*
+➖➖➖➖➖➖➖➖➖➖➖
+*List Harga Terbaru:*
+🔥 *PAKET SEMI FAST A DIAMOND MOBILE LEGENDS* 🔥
+
+112 Diamonds Rp. 25.300
+223 Diamonds Rp. 49.500
+336 Diamonds Rp. 73.700
+448 Diamonds Rp. 98.000
+570 Diamonds Rp. 122.500
+682 Diamonds Rp. 146.800
+906 Diamonds Rp. 195.200
+1163 Diamonds Rp. 244.500
+1275 Diamonds Rp. 268.800
+1386 Diamonds Rp. 293.000
+1499 Diamonds Rp. 317.200
+1733 Diamonds Rp. 366.000
+2398 Diamonds Rp. 487.000
+2510 Diamonds Rp. 512.300
+2968 Diamonds Rp. 608.500
+3561 Diamonds Rp. 731.500
+4796 Diamonds Rp. 973.000
+6042 Diamonds Rp. 1.216.000
+
+Starlight Rp. 100.000
+Twilight Pass Rp.100.000
+Starlight Member Plus Rp. 200.000
+
+*Max Pembelian Deno 112 adalah X5 Per 1x Order/Account*
+*Apabila User ID yg sama ingin beli kembali, harap dijeda 1-2 Jam*
+
+*DENOM DI ATAS ADALAH DENOM ASLI KALIAN BISA TAMBAH² SESUAI DENOM YANG KALIAN MAU* TERIMAKASIH
+
+⏰ *(Close Jam 19:00)* 
+
+⏳ PROSES 10 MENIT - 180 MENIT ( MAX PROSES 24 JAM KETIKA EVENT )
+
+➖➖➖➖➖➖➖➖➖➖➖
+ *_© Creator By Rakun Official_*
+➖➖➖➖➖➖➖➖➖➖➖`)
+break
 
 		  case 'tebakin': case 'tebakgambar':
 		if (isGame(sender, isPremium, isCreator, isOwner, gcounttuser, glimit)) return sendButMessage(from, lang.limitg(prefix), `© ${ownername}`, [{buttonId: 'limit', buttonText: {displayText: `Check Limit`, },type: 1,}]);
