@@ -7,8 +7,8 @@ return`╭──「 📖  *PRICE JADIBOT*」
 │
 ├ • *Permanen*
 │
-│ ⤷ *Harga :  50k [E-Wallet]*
-│ ⤷ *Harga :  60k [Pulsa]*
+│ ⤷ *Harga :  25k [E-Wallet]*
+│ ⤷ *Harga :  28k [Pulsa]*
 │
 ├─ 「 💰  *PAYMENT* 」
 │
@@ -25,8 +25,7 @@ return`╭──「 📖  *PRICE JADIBOT*」
 ├─ 「 📝  *NOTES* 」
 │
 │ ⤷ _Tidak perlu termux_
-│ ⤷ _Minat? Hubungi wa.me/6282391768021_
-│ ⤷ _Minat? Hubungi wa.me/6289646775883_
+│ ⤷ _Minat? Hubungi 0887435047326_
 │
 ╰──「 *Thank's* 」
 `
