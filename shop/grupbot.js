@@ -8,8 +8,8 @@ _https://chat.whatsapp.com/IvLU7d0FUOKKzi83oU4ppN_
 _https://chat.whatsapp.com/IvLU7d0FUOKKzi83oU4ppN_
 3. *GERUP NEW TOP UP GAME 3*
 _https://chat.whatsapp.com/HqNcbYai2Ml6diptRVs5Lo_
-4. *TOP UP GAME LAMA 4* 
-_https://chat.whatsapp.com/EqoE3PAcyueJddjbtKWRQX_
+4. *BOT JUALAN SILAKAN CRK* 
+_http://wa.me/6289646775883?text=/menu_
 
 Jika ada link yang ke reset, silahkan hubungi
 owner untuk meminta link yang baru
